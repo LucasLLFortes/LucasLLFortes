@@ -10,11 +10,13 @@ I’m currently learning C++ but programming is always interesting! So always le
 
 Average/Advanced Skills
 - C/C++
-- Matlab
 
 Basic Skills
 - Java
 - Python
+
+Applications I'm Familiar with 
+- Matlab
 
 ## Projects & Collabs 🤔
 I’m not looking to collaborate on projects ATM, but in the future I shall.
